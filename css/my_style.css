@@ -11,5 +11,11 @@ body {
 .subheading{
     font-family: 'Noto Sans TC',sans-serif;
     text-transform: none;
-
+}
+.expedu_icon{
+    color: #2a67a5;
+}
+.expedu_icon:hover{
+    background-color: #f8f9fa;
+    color: #a14343;
 }
